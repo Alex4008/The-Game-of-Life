@@ -5,7 +5,7 @@ This project is built using the [Conway Game of Life](https://en.wikipedia.org/w
 
 ![A screenshot from The Game of Life](http://alexdgray.com/imgs/gameOfLife.png)
 
-Downloads for all versions of this game can be found [here](http://www.mediafire.com/folder/b1vi39v4zk4j7/Jumper_Man)
+Downloads for all versions of this game can be found [here](http://www.mediafire.com/folder/o63w2pl3hd715/The_Game_of_Life)
 
 This program was based on a basic algorithm and set of rules as defined for Conway's Game of Life
 
